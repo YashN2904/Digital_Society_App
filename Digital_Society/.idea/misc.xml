@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2005" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/bg.xml" value="0.2095" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/bottom_nb.xml" value="0.1755" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/button.xml" value="0.2095" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/custom_input.xml" value="0.2095" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/dark_mode_button.xml" value="0.188" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/dashboard_textview.xml" value="0.2095" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/edittext.xml" value="0.19" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/header.xml" value="0.188" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/ic_arrow_right.xml" value="0.1755" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/ic_baseline_circle_notifications_24.xml" value="0.19" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/ic_baseline_emoji_people_24.xml" value="0.2005" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.19" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/ic_baseline_event_24.xml" value="0.19" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/ic_baseline_group_add_24.xml" value="0.19" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.2095" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2005" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/mem_bg.xml" value="0.1755" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/mem_dash.xml" value="0.2095" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/nav_header.xml" value="0.1755" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/spinner_bg.xml" value="0.1755" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/spinner_layout.xml" value="0.189" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/textview.xml" value="0.1675" />
+        <entry key="..\:/Digital_Society/app/src/main/res/drawable/toolbar.xml" value="0.2095" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/activity_add_member.xml" value="0.19791666666666666" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/activity_chairman_dashboard.xml" value="0.144" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/activity_chairman_register.xml" value="0.144" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/activity_member_dashboard.xml" value="0.144" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/activity_member_login.xml" value="0.144" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/activity_select_role.xml" value="0.144" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/activity_show_members.xml" value="0.152" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/activity_splash_screen.xml" value="0.144" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/app_bar_layout.xml" value="0.144" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/chairman_appbar_layout.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/chairman_dash_row_layout.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/dark_mode_button.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_add__members.xml" value="0.19791666666666666" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_add__members_frag.xml" value="0.136" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_add__notice.xml" value="0.12" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_chairman__show__notice.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_chairman_dash_frag.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_edit__member__profile.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_mem_dashboard.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_mem_events.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_mem_notice.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_member_profile.xml" value="0.144" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_settings__chairman.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_settings__member.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_show__members_frag.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/fragment_view_mem.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/header.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/main_content_view.xml" value="0.128" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/main_contentview_chairman.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/mem_dash_row_layout.xml" value="0.11200000000000002" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/nav_header_view.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/notice_row_layout.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/row_layout.xml" value="0.19791666666666666" />
+        <entry key="..\:/Digital_Society/app/src/main/res/layout/spinner_layout.xml" value="0.19791666666666666" />
+        <entry key="..\:/Digital_Society/app/src/main/res/menu/bottom_nav_menu.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/menu/chairman_bottom_nb.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/menu/chairman_drawer_menu.xml" value="0.176" />
+        <entry key="..\:/Digital_Society/app/src/main/res/menu/drawer_menu.xml" value="0.12837837837837837" />
+        <entry key="..\:/Digital_Society/app/src/main/res/menu/my_menu.xml" value="0.19791666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
